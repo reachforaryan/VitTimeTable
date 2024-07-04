@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timetable</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid black;
+            text-align: center;
+            padding: 8px;
+            white-space: nowrap;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .slot {
+            cursor: pointer;
+        }
+        .selected {
+            background-color: yellow;
+        }
+        .timeslot-header {
+            background-color: #d1e0e0;
+        }
+        .lab-slot {
+            background-color: #e7f3fe;
+        }
+    </style>
+</head>
+<body>
+    <h1>Timetable</h1>
+    
+    <table id="timetable">
+        <tr>
+            <th>Theory Hours</th>
+            <th>08:00 AM <br>to<br>08:50 AM</th>
+            <th>09:00 AM <br>to<br>09:50 AM</th>
+            <th>10:00 AM <br>to<br>10:50 AM</th>
+            <th>11:00 AM <br>to<br>11:50 AM</th>
+            <th>12:00 AM <br>to<br>12:50 AM</th>
+            <th>-</th>
+            <th rowspan="7">LUNCH</th>
+            <th>02:00 PM <br>to<br>02:50 PM</th>
+            <th>03:00 PM <br>to<br>03:50 PM</th>
+            <th>04:00 PM <br>to<br>04:50 PM</th>
+            <th>05:00 PM <br>to<br>05:50 PM</th>
+            <th>06:00 PM <br>to<br>06:50 PM</th>
+            <th>07:00 PM <br>to<br>07:50 PM</th>
+        </tr>
+        <tr>
+            <th>Lab Hours</th>
+            <th>08:00 AM <br>to<br>08:45 AM</th>
+            <th>08:45 AM <br>to<br>09:30 AM</th>
+            <th>09:30 AM <br>to<br>10:45 AM</th>
+            <th>10:45 AM <br>to<br>11:30 AM</th>
+            <th>11:30 AM <br>to<br>12:15 AM</th>
+            <th>12:15 AM <br>to<br>1:00 PM</th>
+            <th>02:00 PM <br>to<br>02:50 PM</th>
+            <th>03:00 PM <br>to<br>03:50 PM</th>
+            <th>04:00 PM <br>to<br>04:50 PM</th>
+            <th>05:00 PM <br>to<br>05:50 PM</th>
+            <th>06:00 PM <br>to<br>06:50 PM</th>
+            <th>07:00 PM <br>to<br>07:50 PM</th>
+        </tr>
+        <tr>
+            <th>MON</th>
+            <td class="slot">A1/L1</td>
+            <td class="slot">F1/L2</td>
+            <td class="slot">D1/L3</td>
+            <td class="slot">TB1/L4</td>
+            <td class="slot">TG1/L5</td>
+            <td class="slot">L6</td>
+            <td class="slot">A2/L31</td>
+            <td class="slot">F2/L32</td>
+            <td class="slot">D2/L33</td>
+            <td class="slot">TB2/L34</td>
+            <td class="slot">TG2/L35</td>
+            <td class="slot">V3/L36</td>
+        </tr>
+        <tr>
+            <th>TUE</th>
+            <td class="slot">B1/L7</td>
+            <td class="slot">G1/L8</td>
+            <td class="slot">E1/L9</td>
+            <td class="slot">TC1/L10</td>
+            <td class="slot">TAA1/L11</td>
+            <td class="slot">L12</td>
+            <td class="slot">B2/L37</td>
+            <td class="slot">G2/L38</td>
+            <td class="slot">E2/L39</td>
+            <td class="slot">TC2/L40</td>
+            <td class="slot">TAA2/L41</td>
+            <td class="slot">V4/L42</td>
+        </tr>
+        <tr>
+            <th>WED</th>
+            <td class="slot">C1/L13</td>
+            <td class="slot">G1/L14</td>
+            <td class="slot">E1/L15</td>
+            <td class="slot">TC1/L16</td>
+            <td class="slot">V2</td>
+            <td>-</td>
+            <td class="slot">C2/L43</td>
+            <td class="slot">A2/L44</td>
+            <td class="slot">F2/L45</td>
+            <td class="slot">TD2/L46</td>
+            <td class="slot">TBB2/L47</td>
+            <td class="slot">V5/L48</td>
+        </tr>
+        <tr>
+            <th>THU</th>
+            <td class="slot">D1/L19</td>
+            <td class="slot">B1/L20</td>
+            <td class="slot">G1/L21</td>
+            <td class="slot">TE1/L22</td>
+            <td class="slot">TCC1/L23</td>
+            <td class="slot">L24</td>
+            <td class="slot">D2/L49</td>
+            <td class="slot">B2/L50</td>
+            <td class="slot">G2/L51</td>
+            <td class="slot">TE2/L52</td>
+            <td class="slot">TCC2/L53</td>
+            <td class="slot">V6/L54</td>
+        </tr>
+        <tr>
+            <th>FRI</th>
+            <td class="slot">E1/L25</td>
+            <td class="slot">C1/L26</td>
+            <td class="slot">TA1/L27</td>
+            <td class="slot">TF1/L28</td>
+            <td class="slot">TD1/L29</td>
+            <td class="slot">L30</td>
+            <td class="slot">E2/L55</td>
+            <td class="slot">C2/L56</td>
+            <td class="slot">TA2/L57</td>
+            <td class="slot">TF2/L58</td>
+            <td class="slot">TDD2/L59</td>
+            <td class="slot">V7/L60</td>
+        </tr>
+
+    </table>
+
+    <select id="subject" onchange="populateTeachers()">
+        <option value="default">Select Subject</option>
+    </select>
+    <select id="teacher">
+        <option value="default">Select Teacher</option>
+    </select>
+    <button onclick="updateTimetable()">Update Timetable</button>
+    <button onclick="refreshTimetable()">Refresh Timetable</button>
+
+    <h3>Selected Slots:</h3>
+    <ul id="selectedSlotsList"></ul>
+
+    <script>
+        const slots = document.querySelectorAll('.slot');
+        const originalSlots = [...slots].map(slot => slot.textContent);
+
+        const teacherData = "/Data/TeacherList.json";
+
+        function populateSubjects() {
+            const subjectSelect = document.getElementById('subject');
+            for (let subject in teacherData) {
+                let option = document.createElement('option');
+                option.value = subject;
+                option.textContent = subject;
+                subjectSelect.appendChild(option);
+            }
+        }
+
+        function populateTeachers() {
+            const subject = document.getElementById('subject').value;
+            const teacherSelect = document.getElementById('teacher');
+            teacherSelect.innerHTML = '<option value="default">Select Teacher</option>'; // Reset the teacher options
+            if (subject !== 'default') {
+                const teachers = teacherData[subject];
+                const uniqueTeachers = [...new Set(teachers.map(t => t.Faculty))];
+                uniqueTeachers.forEach(teacher => {
+                    let option = document.createElement('option');
+                    option.value = teacher;
+                    option.textContent = teacher;
+                    teacherSelect.appendChild(option);
+                });
+            }
+        }
+
+        function updateTimetable() {
+            const subject = document.getElementById('subject').value;
+            const teacher = document.getElementById('teacher').value;
+            const selectedSlotsList = document.getElementById('selectedSlotsList');
+            selectedSlotsList.innerHTML = ''; // Clear previous selections
+
+            if (subject === 'default' || teacher === 'default') {
+                alert("Please select both subject and teacher.");
+                return;
+            }
+
+            const selectedTeacherData = teacherData[subject].filter(data => data.Faculty === teacher);
+            selectedTeacherData.forEach(data => {
+                const slotDetail = data['Slot Detail'].split('+');
+                const slot1 = slotDetail[0];
+                const slot2 = slotDetail[1];
+
+                const slot1Element = Array.from(slots).find(slot => slot.textContent.includes(slot1));
+                const slot2Element = Array.from(slots).find(slot => slot.textContent.includes(slot2));
+
+                if (slot1Element && slot2Element) {
+                    slot1Element.textContent = `${subject} (${teacher})`;
+                    slot2Element.textContent = `${subject} (${teacher})`;
+
+                    const listItem = document.createElement('li');
+                    listItem.textContent = `${slot1} + ${slot2}: ${subject} (${teacher})`;
+                    selectedSlotsList.appendChild(listItem);
+                }
+            });
+        }
+
+        function refreshTimetable() {
+            slots.forEach((slot, index) => {
+                slot.textContent = originalSlots[index];
+                slot.classList.remove('selected');
+            });
+            document.getElementById('selectedSlotsList').innerHTML = '';
+            document.getElementById('subject').value = 'default';
+            document.getElementById('teacher').innerHTML = '<option value="default">Select Teacher</option>';
+        }
+
+        populateSubjects();
+    </script>
+</body>
+</html>

@@ -1,0 +1,2611 @@
+{
+  "Database": [
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT501",
+      "Faculty": "GEETHA MARY A",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A2+TA2",
+      "Venue": "SJT501",
+      "Faculty": "GEETHA MARY A",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT604",
+      "Faculty": "SARASWATHI PRIYADHARSHINI A",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A2+TA2",
+      "Venue": "SJT604",
+      "Faculty": "SARASWATHI PRIYADHARSHINI A",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT703",
+      "Faculty": "JEEVANAJYOTHI PUJARI",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A2+TA2",
+      "Venue": "SJT711",
+      "Faculty": "ANAND BIHARI",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT712",
+      "Faculty": "RAMANATHAN L",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT508",
+      "Faculty": "AKILA VICTOR",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A2+TA2",
+      "Venue": "SJT508",
+      "Faculty": "AKILA VICTOR",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A2+TA2",
+      "Venue": "SJT502",
+      "Faculty": "RAMANATHAN L",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A2+TA2",
+      "Venue": "SJT503",
+      "Faculty": "RAJESHKANNAN R",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A2+TA2",
+      "Venue": "SJT504",
+      "Faculty": "SHASHANK MOULI SATAPATHY",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A2+TA2",
+      "Venue": "SJT513",
+      "Faculty": "JYOTISMITA CHAKI",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT503",
+      "Faculty": "RAJESHKANNAN R",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A2+TA2",
+      "Venue": "SJT505",
+      "Faculty": "NAVAMANI T M",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT504",
+      "Faculty": "SHASHANK MOULI SATAPATHY",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT521",
+      "Faculty": "JOSHVA DEVADAS T",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A2+TA2",
+      "Venue": "SJT522",
+      "Faculty": "ILAYARAJA V",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT522",
+      "Faculty": "ILAYARAJA V",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A2+TA2",
+      "Venue": "SJT601",
+      "Faculty": "ANBARASI M",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT505",
+      "Faculty": "NAVAMANI T M",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT513",
+      "Faculty": "JYOTISMITA CHAKI",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A2+TA2",
+      "Venue": "SJT521",
+      "Faculty": "JOSHVA DEVADAS T",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT601",
+      "Faculty": "ANBARASI M",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A2+TA2",
+      "Venue": "SJT602A",
+      "Faculty": "LYDIA JANE G",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT602A",
+      "Faculty": "LYDIA JANE G",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A2+TA2",
+      "Venue": "SJT626",
+      "Faculty": "POORNIMA N",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT626",
+      "Faculty": "POORNIMA N",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A2+TA2",
+      "Venue": "SJT627",
+      "Faculty": "KONATHAM SUMALATHA",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT627",
+      "Faculty": "KONATHAM SUMALATHA",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT702",
+      "Faculty": "MOHAN KUMAR P",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A2+TA2",
+      "Venue": "SJT702",
+      "Faculty": "MOHAN KUMAR P",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A2+TA2",
+      "Venue": "SJT703",
+      "Faculty": "JEEVANAJYOTHI PUJARI",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A2+TA2",
+      "Venue": "SJT707",
+      "Faculty": "KRISHNA RANI SAMAL K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A2+TA2",
+      "Venue": "SJT710",
+      "Faculty": "KARTHIK K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A2+TA2",
+      "Venue": "SJT704",
+      "Faculty": "SRIDEVI S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT707",
+      "Faculty": "KRISHNA RANI SAMAL K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT704",
+      "Faculty": "SRIDEVI S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A2+TA2",
+      "Venue": "SJT709",
+      "Faculty": "PRIYADHARSINI M",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT709",
+      "Faculty": "PRIYADHARSINI M",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT710",
+      "Faculty": "KARTHIK K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT711",
+      "Faculty": "ANAND BIHARI",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "A1+TA1",
+      "Venue": "SJT502",
+      "Faculty": "SWATHI J.N",
+      "Course Type": "TH"
+    },
+    null,
+    null,
+    {
+      "Slot Detail": "Slot Detail",
+      "Venue": "Venue",
+      "Faculty": "Faculty",
+      "Course Type": "Course Type"
+    },
+    {
+      "Slot Detail": "L49+L50",
+      "Venue": "SJT416",
+      "Faculty": "GEETHA MARY A",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L51+L52",
+      "Venue": "SJT416",
+      "Faculty": "RAMANATHAN L",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L39+L40",
+      "Venue": "SJT416",
+      "Faculty": "AKILA VICTOR",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L3+L4",
+      "Venue": "SJT416",
+      "Faculty": "AKILA VICTOR",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L21+L22",
+      "Venue": "SJT416",
+      "Faculty": "GEETHA MARY A",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L9+L10",
+      "Venue": "SJT416",
+      "Faculty": "RAMANATHAN L",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L9+L10",
+      "Venue": "SJT417",
+      "Faculty": "RAJESHKANNAN R",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L11+L12",
+      "Venue": "SJT416",
+      "Faculty": "SHASHANK MOULI SATAPATHY",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L11+L12",
+      "Venue": "SJT417",
+      "Faculty": "JYOTISMITA CHAKI",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L33+L34",
+      "Venue": "SJT417",
+      "Faculty": "RAJESHKANNAN R",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L3+L4",
+      "Venue": "SJT417",
+      "Faculty": "NAVAMANI T M",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L33+L34",
+      "Venue": "SJT416",
+      "Faculty": "SHASHANK MOULI SATAPATHY",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L37+L38",
+      "Venue": "SJT416",
+      "Faculty": "KONATHAM SUMALATHA",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L19+L20",
+      "Venue": "SJT416",
+      "Faculty": "ILAYARAJA V",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L39+L40",
+      "Venue": "SJT417",
+      "Faculty": "ILAYARAJA V",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L23+L24",
+      "Venue": "SJT417",
+      "Faculty": "ANBARASI M",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L49+L50",
+      "Venue": "SJT417",
+      "Faculty": "NAVAMANI T M",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L45+L46",
+      "Venue": "SJT417",
+      "Faculty": "JYOTISMITA CHAKI",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L29+L30",
+      "Venue": "SJT419",
+      "Faculty": "JOSHVA DEVADAS T",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L45+L46",
+      "Venue": "SJT416",
+      "Faculty": "ANBARASI M",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L21+L22",
+      "Venue": "SJT417",
+      "Faculty": "LYDIA JANE G",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L5+L6",
+      "Venue": "SJT417",
+      "Faculty": "POORNIMA N",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L37+L38",
+      "Venue": "SJT417",
+      "Faculty": "LYDIA JANE G",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L41+L42",
+      "Venue": "SJT417",
+      "Faculty": "POORNIMA N",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L3+L4",
+      "Venue": "SJT317",
+      "Faculty": "SARASWATHI PRIYADHARSHINI A",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L55+L56",
+      "Venue": "SJT319",
+      "Faculty": "SARASWATHI PRIYADHARSHINI A",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L7+L8",
+      "Venue": "SJT416",
+      "Faculty": "KONATHAM SUMALATHA",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L41+L42",
+      "Venue": "SJT416",
+      "Faculty": "MOHAN KUMAR P",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L49+L50",
+      "Venue": "SJT418",
+      "Faculty": "JEEVANAJYOTHI PUJARI",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L15+L16",
+      "Venue": "SJT416",
+      "Faculty": "MOHAN KUMAR P",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L29+L30",
+      "Venue": "SJT416",
+      "Faculty": "JEEVANAJYOTHI PUJARI",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L29+L30",
+      "Venue": "SJT417",
+      "Faculty": "KRISHNA RANI SAMAL K",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L19+L20",
+      "Venue": "SJT419",
+      "Faculty": "KARTHIK K",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L3+L4",
+      "Venue": "SJT418",
+      "Faculty": "SRIDEVI S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L47+L48",
+      "Venue": "SJT417",
+      "Faculty": "KRISHNA RANI SAMAL K",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L49+L50",
+      "Venue": "SJT419",
+      "Faculty": "SRIDEVI S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L3+L4",
+      "Venue": "SJT419",
+      "Faculty": "PRIYADHARSINI M",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L47+L48",
+      "Venue": "SJT416",
+      "Faculty": "PRIYADHARSINI M",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L33+L34",
+      "Venue": "SJT418",
+      "Faculty": "KARTHIK K",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L7+L8",
+      "Venue": "SJT418",
+      "Faculty": "ANAND BIHARI",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L33+L34",
+      "Venue": "SJT419",
+      "Faculty": "ANAND BIHARI",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L31+L32",
+      "Venue": "SJT417",
+      "Faculty": "SWATHI J.N",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L53+L54",
+      "Venue": "SJT417",
+      "Faculty": "JOSHVA DEVADAS T",
+      "Course Type": "LO"
+    }
+  ],
+  "OS": [
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT508",
+      "Faculty": "PEREPI RAJARAJESWARI",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT508",
+      "Faculty": "PEREPI RAJARAJESWARI",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT513",
+      "Faculty": "NAVEENKUMAR J",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT513",
+      "Faculty": "NAVEENKUMAR J",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT522",
+      "Faculty": "BHULAKSHMI BONTHU",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT521",
+      "Faculty": "SURESH P",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT522",
+      "Faculty": "BHULAKSHMI BONTHU",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT627",
+      "Faculty": "SIVAPRAKASH S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT702",
+      "Faculty": "KUMARESAN A",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT702",
+      "Faculty": "KUMARESAN A",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT501",
+      "Faculty": "ANISHA M. LAL",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT501",
+      "Faculty": "ANISHA M. LAL",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT502",
+      "Faculty": "SIVAKUMAR. N",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT503",
+      "Faculty": "SENDHIL KUMAR K.S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT503",
+      "Faculty": "SENDHIL KUMAR K.S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT504",
+      "Faculty": "NARAYANAN PRASANTH",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT502",
+      "Faculty": "SIVAKUMAR. N",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT504",
+      "Faculty": "NARAYANAN PRASANTH",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT505",
+      "Faculty": "ANTO S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT505",
+      "Faculty": "ANTO S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT627",
+      "Faculty": "SIVAPRAKASH S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT521",
+      "Faculty": "SURESH P",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT602A",
+      "Faculty": "DEEPA.K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT602A",
+      "Faculty": "DEEPA.K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT601",
+      "Faculty": "USHUS ELIZEBETH ZACHARIAH",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT601",
+      "Faculty": "USHUS ELIZEBETH ZACHARIAH",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT603",
+      "Faculty": "RUBY D",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT604",
+      "Faculty": "HITESHWAR KUMAR AZAD",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT603",
+      "Faculty": "RUBY D",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT604",
+      "Faculty": "HITESHWAR KUMAR AZAD",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT626",
+      "Faculty": "NIHA K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT626",
+      "Faculty": "NIHA K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT704",
+      "Faculty": "BALAJI N",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT709",
+      "Faculty": "MOHANKUMAR B",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT704",
+      "Faculty": "BALAJI N",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT707",
+      "Faculty": "YOGANAND S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT707",
+      "Faculty": "YOGANAND S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT709",
+      "Faculty": "MOHANKUMAR B",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT710",
+      "Faculty": "EZHIL ARASI V",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT712",
+      "Faculty": "PADMAVATHY T",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT703",
+      "Faculty": "MALINI S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT703",
+      "Faculty": "MALINI S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT711",
+      "Faculty": "RAHUL SHRIVASTAVA",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B1+TB1",
+      "Venue": "SJT711",
+      "Faculty": "RAHUL SHRIVASTAVA",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "B2+TB2",
+      "Venue": "SJT710",
+      "Faculty": "EZHIL ARASI V",
+      "Course Type": "TH"
+    },
+    null,
+    {
+      "Slot Detail": "Slot Detail",
+      "Venue": "Venue",
+      "Faculty": "Faculty",
+      "Course Type": "Course Type"
+    },
+    {
+      "Slot Detail": "L31+L32",
+      "Venue": "SJT317",
+      "Faculty": "ANISHA M. LAL",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L27+L28",
+      "Venue": "SJT317",
+      "Faculty": "ANISHA M. LAL",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L9+L10",
+      "Venue": "SJT317",
+      "Faculty": "SIVAKUMAR. N",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L13+L14",
+      "Venue": "SJT317",
+      "Faculty": "SENDHIL KUMAR K.S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L55+L56",
+      "Venue": "SJT317",
+      "Faculty": "SENDHIL KUMAR K.S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L29+L30",
+      "Venue": "SJT317",
+      "Faculty": "NARAYANAN PRASANTH",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L45+L46",
+      "Venue": "SJT317",
+      "Faculty": "SIVAKUMAR. N",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L47+L48",
+      "Venue": "SJT317",
+      "Faculty": "NARAYANAN PRASANTH",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L39+L40",
+      "Venue": "SJT317",
+      "Faculty": "ANTO S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L43+L44",
+      "Venue": "SJT317",
+      "Faculty": "KUMARESAN A",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L15+L16",
+      "Venue": "SJT317",
+      "Faculty": "ANTO S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L47+L48",
+      "Venue": "SJT319",
+      "Faculty": "SIVAPRAKASH S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L23+L24",
+      "Venue": "SJT319",
+      "Faculty": "SIVAPRAKASH S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L23+L24",
+      "Venue": "SJT317",
+      "Faculty": "KUMARESAN A",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L25+L26",
+      "Venue": "SJT319",
+      "Faculty": "PEREPI RAJARAJESWARI",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L45+L46",
+      "Venue": "SJT319",
+      "Faculty": "PEREPI RAJARAJESWARI",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L45+L46",
+      "Venue": "SJT318",
+      "Faculty": "SURESH P",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L15+L16",
+      "Venue": "SJT319",
+      "Faculty": "SURESH P",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L31+L32",
+      "Venue": "SJT319",
+      "Faculty": "NAVEENKUMAR J",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L29+L30",
+      "Venue": "SJT319",
+      "Faculty": "NAVEENKUMAR J",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L21+L22",
+      "Venue": "SJT319",
+      "Faculty": "BHULAKSHMI BONTHU",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L57+L58",
+      "Venue": "SJT515",
+      "Faculty": "BHULAKSHMI BONTHU",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L53+L54",
+      "Venue": "SJT319",
+      "Faculty": "DEEPA.K",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L27+L28",
+      "Venue": "SJT319",
+      "Faculty": "DEEPA.K",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L53+L54",
+      "Venue": "SJT317",
+      "Faculty": "USHUS ELIZEBETH ZACHARIAH",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L25+L26",
+      "Venue": "SJT317",
+      "Faculty": "USHUS ELIZEBETH ZACHARIAH",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L57+L58",
+      "Venue": "SJT319",
+      "Faculty": "RUBY D",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L1+L2",
+      "Venue": "SJT317",
+      "Faculty": "HITESHWAR KUMAR AZAD",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L9+L10",
+      "Venue": "SJT319",
+      "Faculty": "RUBY D",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L57+L58",
+      "Venue": "SJT317",
+      "Faculty": "HITESHWAR KUMAR AZAD",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L59+L60",
+      "Venue": "SJT317",
+      "Faculty": "NIHA K",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L11+L12",
+      "Venue": "SJT317",
+      "Faculty": "NIHA K",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L51+L52",
+      "Venue": "SJT319",
+      "Faculty": "BALAJI N",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L39+L40",
+      "Venue": "SJT319",
+      "Faculty": "MOHANKUMAR B",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L11+L12",
+      "Venue": "SJT319",
+      "Faculty": "BALAJI N",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L41+L42",
+      "Venue": "SJT317",
+      "Faculty": "YOGANAND S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L21+L22",
+      "Venue": "SJT317",
+      "Faculty": "YOGANAND S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L1+L2",
+      "Venue": "SJT319",
+      "Faculty": "MOHANKUMAR B",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L15+L16",
+      "Venue": "SJT318",
+      "Faculty": "MALINI S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L55+L56",
+      "Venue": "SJT318",
+      "Faculty": "MALINI S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L13+L14",
+      "Venue": "SJT318",
+      "Faculty": "RAHUL SHRIVASTAVA",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L47+L48",
+      "Venue": "SJT316",
+      "Faculty": "EZHIL ARASI V",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L59+L60",
+      "Venue": "SJT318",
+      "Faculty": "RAHUL SHRIVASTAVA",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L25+L26",
+      "Venue": "SJT316",
+      "Faculty": "EZHIL ARASI V",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L33+L34",
+      "Venue": "SJT317",
+      "Faculty": "PADMAVATHY T",
+      "Course Type": "LO"
+    }
+  ],
+  "AI": [
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "SJT501",
+      "Faculty": "JAISANKAR N",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E1+TE1",
+      "Venue": "SJT501",
+      "Faculty": "JAISANKAR N",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E1+TE1",
+      "Venue": "SJT502",
+      "Faculty": "SARAVANAGURU RA.K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "SJT502",
+      "Faculty": "SARAVANAGURU RA.K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E1+TE1",
+      "Venue": "SJT508",
+      "Faculty": "AKILA VICTOR",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "SJT508",
+      "Faculty": "ARUN KUMAR G",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E1+TE1",
+      "Venue": "SJT505",
+      "Faculty": "NAGA RAJA G",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E1+TE1",
+      "Venue": "SJT513",
+      "Faculty": "ILANTHENRAL K P S K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E1+TE1",
+      "Venue": "SJT603",
+      "Faculty": "RISHIN HALDAR",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E1+TE1",
+      "Venue": "SJT503",
+      "Faculty": "RAJAKUMAR K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "SJT503",
+      "Faculty": "RAJAKUMAR K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E1+TE1",
+      "Venue": "SJT504",
+      "Faculty": "VISWANATHAN P",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "SJT504",
+      "Faculty": "VISWANATHAN P",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "SJT513",
+      "Faculty": "SHASHANK MOULI SATAPATHY",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "SJT521",
+      "Faculty": "RADHAKRISHNAN DELHIBABU",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E1+TE1",
+      "Venue": "SJT522",
+      "Faculty": "BALAMURUGAN R",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "SJT602A",
+      "Faculty": "SIVANESAN S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "SJT627",
+      "Faculty": "MOHANA CM",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E1+TE1",
+      "Venue": "SJT702",
+      "Faculty": "SRIDHAR RAJ S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "SJT505",
+      "Faculty": "GERALDINE BESSIE AMALI D",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "SJT522",
+      "Faculty": "JYOTISMITA CHAKI",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "SJT601",
+      "Faculty": "ANINDITA KUNDU",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E1+TE1",
+      "Venue": "SJT604",
+      "Faculty": "JAYASHREE J",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "SJT604",
+      "Faculty": "LIJO V.P",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "SJT702",
+      "Faculty": "PRIYANKA N",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "SJT703",
+      "Faculty": "KARTHIK K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "SJT707",
+      "Faculty": "NAGARAJA RAO A",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E1+TE1",
+      "Venue": "SJT521",
+      "Faculty": "NAVAMANI T M",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E1+TE1",
+      "Venue": "SJT601",
+      "Faculty": "SUDARSHAN NANDY",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "SJT626",
+      "Faculty": "ANAND BIHARI",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "SJT704",
+      "Faculty": "PRIYADHARSINI M",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E1+TE1",
+      "Venue": "SJT707",
+      "Faculty": "NAGA PRIYADARSINI R",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E1+TE1",
+      "Venue": "SJT709",
+      "Faculty": "MOHAN KUMAR P",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E1+TE1",
+      "Venue": "SJT626",
+      "Faculty": "JAGALINGAM P",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "SJT603",
+      "Faculty": "GLADYS GNANA KIRUBA B",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "SJT709",
+      "Faculty": "ARPAN GARAI",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E1+TE1",
+      "Venue": "SJT602A",
+      "Faculty": "SHALINI L",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E1+TE1",
+      "Venue": "SJT627",
+      "Faculty": "MOHANA CM",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E1+TE1",
+      "Venue": "SJT703",
+      "Faculty": "SUNIJA A P",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E1+TE1",
+      "Venue": "SJT704",
+      "Faculty": "SAMRIDDHI SARKAR",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E1+TE1",
+      "Venue": "SJT710",
+      "Faculty": "RAJAY VEDARAJ I.S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "SJT710",
+      "Faculty": "SUDHAKARA PANDIAN R",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "E2+TE2",
+      "Venue": "PRP670",
+      "Faculty": "MONASH P",
+      "Course Type": "TH"
+    }
+  ],
+  "CN": [
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT501",
+      "Faculty": "SALEEM DURAI M.A",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT711",
+      "Faculty": "RAJAKUMAR K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT502",
+      "Faculty": "MARIAPPAN R",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT503",
+      "Faculty": "SANTHI H",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT503",
+      "Faculty": "SANTHI H",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT504",
+      "Faculty": "ANANDA KUMAR S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT505",
+      "Faculty": "YOKESH BABU S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT501",
+      "Faculty": "RAJKUMAR R",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT504",
+      "Faculty": "ANANDA KUMAR S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT601",
+      "Faculty": "MANIKANDAN G",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT602A",
+      "Faculty": "SARWESH P",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT602A",
+      "Faculty": "SARWESH P",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT604",
+      "Faculty": "ARIVOLI A",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT707",
+      "Faculty": "TAMIZHSELVI SP",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT710",
+      "Faculty": "KAMANASISH BHATTACHARJEE",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT323",
+      "Faculty": "UMADEVI K S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT707",
+      "Faculty": "TAMIZHSELVI SP",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT626",
+      "Faculty": "DILIPKUMAR S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT627",
+      "Faculty": "THAMIZHARASAN S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT627",
+      "Faculty": "THAMIZHARASAN S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT702",
+      "Faculty": "CHANDRU VIGNESH C",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT702",
+      "Faculty": "CHANDRU VIGNESH C",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT703",
+      "Faculty": "KOPPERUNDEVI N",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT703",
+      "Faculty": "KOPPERUNDEVI N",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT704",
+      "Faculty": "KOVENDAN A.K.P",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT704",
+      "Faculty": "KOVENDAN A.K.P",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT709",
+      "Faculty": "SIVAKUMAR V",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT709",
+      "Faculty": "SIVAKUMAR V",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT710",
+      "Faculty": "KAMANASISH BHATTACHARJEE",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT513",
+      "Faculty": "JAYAKUMAR K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT508",
+      "Faculty": "TAMIZHARASI T",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT508",
+      "Faculty": "TAMIZHARASI T",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT513",
+      "Faculty": "JAYAKUMAR K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT521",
+      "Faculty": "SREETHAR S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT522",
+      "Faculty": "ANUSHA N",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT505",
+      "Faculty": "YOKESH BABU S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT521",
+      "Faculty": "SREETHAR S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT522",
+      "Faculty": "ANUSHA N",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT601",
+      "Faculty": "MANIKANDAN G",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D2+TD2",
+      "Venue": "SJT603",
+      "Faculty": "SURESH A",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT603",
+      "Faculty": "SURESH A",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT604",
+      "Faculty": "ARIVOLI A",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT626",
+      "Faculty": "DILIPKUMAR S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "D1+TD1",
+      "Venue": "SJT712",
+      "Faculty": "SASIKALA .R",
+      "Course Type": "TH"
+    },
+    null,
+    {
+      "Slot Detail": "Slot Detail",
+      "Venue": "Venue",
+      "Faculty": "Faculty",
+      "Course Type": "Course Type"
+    },
+    {
+      "Slot Detail": "L51+L52",
+      "Venue": "SJT418",
+      "Faculty": "SALEEM DURAI M.A",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L31+L32",
+      "Venue": "SJT419",
+      "Faculty": "UMADEVI K S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L21+L22",
+      "Venue": "SJT419",
+      "Faculty": "RAJKUMAR R",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L19+L20",
+      "Venue": "SJT418",
+      "Faculty": "RAJAKUMAR K",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L13+L14",
+      "Venue": "SJT416",
+      "Faculty": "MARIAPPAN R",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L15+L16",
+      "Venue": "SJT418",
+      "Faculty": "SANTHI H",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L37+L38",
+      "Venue": "SJT418",
+      "Faculty": "SANTHI H",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L21+L22",
+      "Venue": "SJT418",
+      "Faculty": "JAYAKUMAR K",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L9+L10",
+      "Venue": "SJT418",
+      "Faculty": "TAMIZHARASI T",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L37+L38",
+      "Venue": "SJT419",
+      "Faculty": "TAMIZHARASI T",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L39+L40",
+      "Venue": "SJT418",
+      "Faculty": "JAYAKUMAR K",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L41+L42",
+      "Venue": "SJT419",
+      "Faculty": "SREETHAR S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L7+L8",
+      "Venue": "SJT419",
+      "Faculty": "ANUSHA N",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L23+L24",
+      "Venue": "SJT418",
+      "Faculty": "ANANDA KUMAR S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L11+L12",
+      "Venue": "SJT418",
+      "Faculty": "YOKESH BABU S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L55+L56",
+      "Venue": "SJT418",
+      "Faculty": "ANUSHA N",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L39+L40",
+      "Venue": "SJT419",
+      "Faculty": "ANANDA KUMAR S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L57+L58",
+      "Venue": "SJT418",
+      "Faculty": "YOKESH BABU S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L5+L6",
+      "Venue": "SJT418",
+      "Faculty": "SREETHAR S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L57+L58",
+      "Venue": "SJT419",
+      "Faculty": "SARWESH P",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L9+L10",
+      "Venue": "SJT419",
+      "Faculty": "MANIKANDAN G",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L11+L12",
+      "Venue": "SJT419",
+      "Faculty": "SARWESH P",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L5+L6",
+      "Venue": "SJT419",
+      "Faculty": "SURESH A",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L43+L44",
+      "Venue": "SJT418",
+      "Faculty": "MANIKANDAN G",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L43+L44",
+      "Venue": "SJT419",
+      "Faculty": "SURESH A",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L43+L44",
+      "Venue": "SJT417",
+      "Faculty": "SIVAKUMAR V",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L31+L32",
+      "Venue": "SJT418",
+      "Faculty": "ARIVOLI A",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L27+L28",
+      "Venue": "SJT419",
+      "Faculty": "THAMIZHARASAN S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L13+L14",
+      "Venue": "SJT418",
+      "Faculty": "CHANDRU VIGNESH C",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L23+L24",
+      "Venue": "SJT419",
+      "Faculty": "SIVAKUMAR V",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L27+L28",
+      "Venue": "SJT418",
+      "Faculty": "ARIVOLI A",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L7+L8",
+      "Venue": "SJT319",
+      "Faculty": "DILIPKUMAR S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L51+L52",
+      "Venue": "SJT419",
+      "Faculty": "DILIPKUMAR S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L35+L36",
+      "Venue": "SJT418",
+      "Faculty": "CHANDRU VIGNESH C",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L55+L56",
+      "Venue": "SJT416",
+      "Faculty": "KOPPERUNDEVI N",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L13+L14",
+      "Venue": "SJT419",
+      "Faculty": "TAMIZHSELVI SP",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L35+L36",
+      "Venue": "SJT419",
+      "Faculty": "THAMIZHARASAN S",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L7+L8",
+      "Venue": "SJT417",
+      "Faculty": "KOPPERUNDEVI N",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L41+L42",
+      "Venue": "SJT621",
+      "Faculty": "KOVENDAN A.K.P",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L43+L44",
+      "Venue": "SJT416",
+      "Faculty": "TAMIZHSELVI SP",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L25+L26",
+      "Venue": "SJT416",
+      "Faculty": "KOVENDAN A.K.P",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L59+L60",
+      "Venue": "SJT419",
+      "Faculty": "KAMANASISH BHATTACHARJEE",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L13+L14",
+      "Venue": "SJT417",
+      "Faculty": "KAMANASISH BHATTACHARJEE",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L55+L56",
+      "Venue": "SJT417",
+      "Faculty": "SASIKALA .R",
+      "Course Type": "LO"
+    }
+  ],
+  "Compiler": [
+    {
+      "Slot Detail": "C2+TC2",
+      "Venue": "SJT513",
+      "Faculty": "KALAIVANI K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C1+TC1",
+      "Venue": "SJT521",
+      "Faculty": "SATHYA K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C2+TC2",
+      "Venue": "SJT626",
+      "Faculty": "ISLABUDEEN M",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C1+TC1",
+      "Venue": "SJT703",
+      "Faculty": "BHAWANA TYAGI",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C2+TC2",
+      "Venue": "SJT703",
+      "Faculty": "BHAWANA TYAGI",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C1+TC1",
+      "Venue": "SJT704",
+      "Faculty": "DEBI PRASANNA ACHARJYA",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C2+TC2",
+      "Venue": "SJT707",
+      "Faculty": "BAIJU B V",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C1+TC1",
+      "Venue": "SJT501",
+      "Faculty": "SAHAAYA ARUL MARY S A",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C1+TC1",
+      "Venue": "SJT502",
+      "Faculty": "KANNADASAN R",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C2+TC2",
+      "Venue": "SJT501",
+      "Faculty": "SAHAAYA ARUL MARY S A",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C1+TC1",
+      "Venue": "SJT513",
+      "Faculty": "KALAIVANI K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C2+TC2",
+      "Venue": "SJT502",
+      "Faculty": "KANNADASAN R",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C2+TC2",
+      "Venue": "SJT508",
+      "Faculty": "KANAGARAJ R",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C1+TC1",
+      "Venue": "SJT503",
+      "Faculty": "VISHNUPRIYA",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C2+TC2",
+      "Venue": "SJT503",
+      "Faculty": "VISHNUPRIYA",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C1+TC1",
+      "Venue": "SJT504",
+      "Faculty": "BHUVANESWARI M",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C1+TC1",
+      "Venue": "SJT505",
+      "Faculty": "VETRISELVI T",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C2+TC2",
+      "Venue": "SJT504",
+      "Faculty": "BHUVANESWARI M",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C2+TC2",
+      "Venue": "SJT505",
+      "Faculty": "VETRISELVI T",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C1+TC1",
+      "Venue": "SJT508",
+      "Faculty": "KANAGARAJ R",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C1+TC1",
+      "Venue": "SJT601",
+      "Faculty": "SABYASACHI KAMILA",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C2+TC2",
+      "Venue": "SJT601",
+      "Faculty": "SABYASACHI KAMILA",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C1+TC1",
+      "Venue": "SJT626",
+      "Faculty": "ISLABUDEEN M",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C1+TC1",
+      "Venue": "SJT627",
+      "Faculty": "SUGANTHINI C",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C2+TC2",
+      "Venue": "SJT521",
+      "Faculty": "SATHYA K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C1+TC1",
+      "Venue": "SJT522",
+      "Faculty": "BASKARAN P",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C1+TC1",
+      "Venue": "SJT602A",
+      "Faculty": "UMA PRIYA D",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C2+TC2",
+      "Venue": "SJT522",
+      "Faculty": "BASKARAN P",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C2+TC2",
+      "Venue": "SJT603",
+      "Faculty": "MUKKU NISANTH KARTHEEK",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C1+TC1",
+      "Venue": "SJT707",
+      "Faculty": "BAIJU B V",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C2+TC2",
+      "Venue": "SJT602A",
+      "Faculty": "UMA PRIYA D",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C1+TC1",
+      "Venue": "SJT603",
+      "Faculty": "MUKKU NISANTH KARTHEEK",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C2+TC2",
+      "Venue": "SJT604",
+      "Faculty": "ARUMUGA ARUN R",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C1+TC1",
+      "Venue": "SJT604",
+      "Faculty": "ARUMUGA ARUN R",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C2+TC2",
+      "Venue": "SJT627",
+      "Faculty": "SUGANTHINI C",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C2+TC2",
+      "Venue": "SJT702",
+      "Faculty": "NAGA PRIYADARSINI R",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "C1+TC1",
+      "Venue": "SJT702",
+      "Faculty": "NAGA PRIYADARSINI R",
+      "Course Type": "TH"
+    },
+    null,
+    {
+      "Slot Detail": "Slot Detail",
+      "Venue": "Venue",
+      "Faculty": "Faculty",
+      "Course Type": "Course Type"
+    },
+    {
+      "Slot Detail": "L31+L32",
+      "Venue": "SJT316",
+      "Faculty": "SAHAAYA ARUL MARY S A",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L31+L32",
+      "Venue": "SJT516",
+      "Faculty": "VETRISELVI T",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L19+L20",
+      "Venue": "SJT316",
+      "Faculty": "SAHAAYA ARUL MARY S A",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L33+L34",
+      "Venue": "SJT516",
+      "Faculty": "KALAIVANI K",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L49+L50",
+      "Venue": "SJT316",
+      "Faculty": "KANNADASAN R",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L19+L20",
+      "Venue": "SJT516",
+      "Faculty": "KANAGARAJ R",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L51+L52",
+      "Venue": "SJT316",
+      "Faculty": "VISHNUPRIYA",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L49+L50",
+      "Venue": "SJT516",
+      "Faculty": "BHUVANESWARI M",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L21+L22",
+      "Venue": "SJT516",
+      "Faculty": "VETRISELVI T",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L3+L4",
+      "Venue": "SJT516",
+      "Faculty": "BHUVANESWARI M",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L33+L34",
+      "Venue": "SJT316",
+      "Faculty": "KANAGARAJ R",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L23+L24",
+      "Venue": "SJT516",
+      "Faculty": "KALAIVANI K",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L43+L44",
+      "Venue": "SJT316",
+      "Faculty": "DEBI PRASANNA ACHARJYA",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L33+L34",
+      "Venue": "SJT319",
+      "Faculty": "SABYASACHI KAMILA",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L3+L4",
+      "Venue": "SJT319",
+      "Faculty": "SABYASACHI KAMILA",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L51+L52",
+      "Venue": "SJT516",
+      "Faculty": "SATHYA K",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L31+L32",
+      "Venue": "SJT318",
+      "Faculty": "ISLABUDEEN M",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L35+L36",
+      "Venue": "SJT516",
+      "Faculty": "SUGANTHINI C",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L1+L2",
+      "Venue": "SJT316",
+      "Faculty": "SATHYA K",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L35+L36",
+      "Venue": "SJT316",
+      "Faculty": "BASKARAN P",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L45+L46",
+      "Venue": "SJT316",
+      "Faculty": "UMA PRIYA D",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L19+L20",
+      "Venue": "SJT319",
+      "Faculty": "BASKARAN P",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L1+L2",
+      "Venue": "SJT516",
+      "Faculty": "MUKKU NISANTH KARTHEEK",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L5+L6",
+      "Venue": "SJT316",
+      "Faculty": "BAIJU B V",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L37+L38",
+      "Venue": "SJT316",
+      "Faculty": "BAIJU B V",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L5+L6",
+      "Venue": "SJT516",
+      "Faculty": "UMA PRIYA D",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L53+L54",
+      "Venue": "SJT316",
+      "Faculty": "MUKKU NISANTH KARTHEEK",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L21+L22",
+      "Venue": "SJT318",
+      "Faculty": "ARUMUGA ARUN R",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L51+L52",
+      "Venue": "SJT318",
+      "Faculty": "ARUMUGA ARUN R",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L1+L2",
+      "Venue": "SJT318",
+      "Faculty": "ISLABUDEEN M",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L19+L20",
+      "Venue": "SJT317",
+      "Faculty": "BHAWANA TYAGI",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L5+L6",
+      "Venue": "SJT319",
+      "Faculty": "SUGANTHINI C",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L1+L2",
+      "Venue": "SJT418",
+      "Faculty": "NAGA PRIYADARSINI R",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L49+L50",
+      "Venue": "SJT319",
+      "Faculty": "NAGA PRIYADARSINI R",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L31+L32",
+      "Venue": "SJT416",
+      "Faculty": "BHAWANA TYAGI",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L3+L4",
+      "Venue": "SJT316",
+      "Faculty": "VISHNUPRIYA",
+      "Course Type": "LO"
+    },
+    {
+      "Slot Detail": "L23+L24",
+      "Venue": "SJT316",
+      "Faculty": "KANNADASAN R",
+      "Course Type": "LO"
+    }
+  ],
+  "AWS": [
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT501",
+      "Faculty": "NARAYANAMOORTHI M",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT501",
+      "Faculty": "NARAYANAMOORTHI M",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT502",
+      "Faculty": "GOVINDA K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT502",
+      "Faculty": "GOVINDA K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT503",
+      "Faculty": "MYTHILI T",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT508",
+      "Faculty": "SRIVANI A",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT503",
+      "Faculty": "MYTHILI T",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT505",
+      "Faculty": "ARCHANA T",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT504",
+      "Faculty": "ABDUL GAFFAR H",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT715",
+      "Faculty": "SANJIBAN SEKHAR ROY",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT513",
+      "Faculty": "SUDHA.S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT521",
+      "Faculty": "NARESH K",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT522",
+      "Faculty": "GOPICHAND G",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT508",
+      "Faculty": "SRIVANI A",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT505",
+      "Faculty": "ARCHANA T",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT603",
+      "Faculty": "VINILA JINNY",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT603",
+      "Faculty": "SANJIBAN SEKHAR ROY",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT712",
+      "Faculty": "PRIYA G",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT601",
+      "Faculty": "BALAKRISHNAN P",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT602A",
+      "Faculty": "JOTHI K R",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT604",
+      "Faculty": "JUSTIN GOPINATH A",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT626",
+      "Faculty": "KANAGARAJ R",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT504",
+      "Faculty": "SANTHI H",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT521",
+      "Faculty": "VIJAYASHREE J",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT513",
+      "Faculty": "JABANJALIN HILDA J",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT627",
+      "Faculty": "KARTHIK G M",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT702",
+      "Faculty": "KOPPERUNDEVI N",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT703",
+      "Faculty": "PARTHASARATHY G",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT704",
+      "Faculty": "THURAI PANDIAN M",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT707",
+      "Faculty": "UMAMAHESWARI M",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT710",
+      "Faculty": "GOUTAM MAJUMDER",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT602A",
+      "Faculty": "CHELLATAMILAN T",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT711",
+      "Faculty": "BADRINATH N",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT601",
+      "Faculty": "ANNY LEEMA A",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT604",
+      "Faculty": "BHUVANESWARI M",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT626",
+      "Faculty": "ANUSHA N",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT703",
+      "Faculty": "BALAJI G N",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT712",
+      "Faculty": "VISHNUPRIYA",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT704",
+      "Faculty": "VISWANATHAN A",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT707",
+      "Faculty": "S M FAROOQ",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT709",
+      "Faculty": "YOGANAND S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT709",
+      "Faculty": "KONATHAM SUMALATHA",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT702",
+      "Faculty": "KOVENDAN A.K.P",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT627",
+      "Faculty": "CHANDRA MOHAN B",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT710",
+      "Faculty": "GAYATHRI S",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F2+TF2",
+      "Venue": "SJT522",
+      "Faculty": "CHANDRU VIGNESH C",
+      "Course Type": "TH"
+    },
+    {
+      "Slot Detail": "F1+TF1",
+      "Venue": "SJT711",
+      "Faculty": "JAYAKUMAR S",
+      "Course Type": "TH"
+    }
+  ]
+}
